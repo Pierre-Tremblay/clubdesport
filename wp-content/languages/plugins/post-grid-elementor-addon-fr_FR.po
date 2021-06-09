@@ -1,0 +1,274 @@
+# Translation of Plugins - Post Grid Elementor Addon - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Post Grid Elementor Addon - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 20:40:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Post Grid Elementor Addon - Development (trunk)\n"
+
+#. Author of the plugin
+msgid "wpconcern"
+msgstr "wpconcern"
+
+#. Author URI of the plugin
+msgid "https://wpconcern.com/"
+msgstr "https://wpconcern.com/"
+
+#. Plugin URI of the plugin
+msgid "https://www.wpconcern.com/downloads/post-grid-elementor-addon/"
+msgstr "https://www.wpconcern.com/downloads/post-grid-elementor-addon/"
+
+#. Description of the plugin
+msgid "Elementor page builder addon to display posts in the grid. Useful for generating post grid from your blog posts with multiple options."
+msgstr "Widget de création de page pour afficher les publications sur une grille. Utile pour générer une grille à partir des articles de votre blog avec plusieurs options."
+
+#: widgets/post-grid.php:1123
+msgid ", "
+msgstr ", "
+
+#: widgets/post-grid.php:814
+msgid "Content"
+msgstr "Contenu"
+
+#: widgets/post-grid.php:758
+msgid "Meta"
+msgstr "Méta"
+
+#: widgets/post-grid.php:693 widgets/post-grid.php:719
+#: widgets/post-grid.php:778 widgets/post-grid.php:834
+#: widgets/post-grid.php:899 widgets/post-grid.php:925
+msgid "Color"
+msgstr "Couleur"
+
+#: widgets/post-grid.php:557 widgets/post-grid.php:710
+#: widgets/post-grid.php:916
+msgid "Hover"
+msgstr "Au survol"
+
+#: widgets/post-grid.php:513 widgets/post-grid.php:566
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: widgets/post-grid.php:504 widgets/post-grid.php:684
+#: widgets/post-grid.php:890
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/post-grid.php:455
+msgid "Border Widget"
+msgstr "Bordure du widget"
+
+#: widgets/post-grid.php:446
+msgid "Box"
+msgstr "Boîte"
+
+#: widgets/post-grid.php:416
+msgid "Rows margin"
+msgstr "Marges externes des rangées"
+
+#: widgets/post-grid.php:394
+msgid "Columns margin"
+msgstr "Marges externes des colonnes"
+
+#: widgets/post-grid.php:367
+msgid "DESC"
+msgstr "Décroissant"
+
+#: widgets/post-grid.php:366
+msgid "ASC"
+msgstr "Croissant"
+
+#: widgets/post-grid.php:362
+msgid "Order"
+msgstr "Ordre"
+
+#: widgets/post-grid.php:354
+msgid "Random"
+msgstr "Aléatoire"
+
+#: widgets/post-grid.php:348
+msgid "Order By"
+msgstr "Trier par"
+
+#: widgets/post-grid.php:340
+msgid "Advanced"
+msgstr "Avancé"
+
+#: widgets/post-grid.php:319
+msgid "Query"
+msgstr "Requête"
+
+#: widgets/post-grid.php:295
+msgid "Right"
+msgstr "À droite"
+
+#: widgets/post-grid.php:287
+msgid "Left"
+msgstr "À gauche"
+
+#: widgets/post-grid.php:283
+msgid "Alignment"
+msgstr "Alignement"
+
+#: widgets/post-grid.php:273
+msgid "Read More »"
+msgstr "Lire la suite »"
+
+#: widgets/post-grid.php:234
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: widgets/post-grid.php:246
+msgid "Excerpt Length"
+msgstr "Longueur de l’extrait"
+
+#: widgets/post-grid.php:219
+msgid "Separator Between"
+msgstr "Séparateur entre"
+
+#: widgets/post-grid.php:210
+msgid "Comments"
+msgstr "Commentaires"
+
+#: widgets/post-grid.php:209 widgets/post-grid.php:328
+msgid "Categories"
+msgstr "Catégories"
+
+#: widgets/post-grid.php:208 widgets/post-grid.php:352
+msgid "Date"
+msgstr "Date"
+
+#: widgets/post-grid.php:207
+msgid "Author"
+msgstr "Auteur"
+
+#: widgets/post-grid.php:201
+msgid "Meta Data"
+msgstr "Métadonnées"
+
+#: widgets/post-grid.php:178
+msgid "Title HTML Tag"
+msgstr "Balise HTML du titre"
+
+#: widgets/post-grid.php:166 widgets/post-grid.php:353
+#: widgets/post-grid.php:663
+msgid "Title"
+msgstr "Titre"
+
+#: widgets/post-grid.php:144 widgets/post-grid.php:169
+#: widgets/post-grid.php:237 widgets/post-grid.php:262
+msgid "Hide"
+msgstr "Masquer"
+
+#: widgets/post-grid.php:143 widgets/post-grid.php:168
+#: widgets/post-grid.php:236 widgets/post-grid.php:261
+msgid "Show"
+msgstr "Afficher"
+
+#: widgets/post-grid.php:141 widgets/post-grid.php:621
+msgid "Image"
+msgstr "Image"
+
+#: widgets/post-grid.php:132
+msgid "Posts Per Page"
+msgstr "Publications par page"
+
+#: widgets/post-grid.php:110
+msgid "Columns"
+msgstr "Colonnes"
+
+#: widgets/post-grid.php:102
+msgid "Layout 5"
+msgstr "Mise en page 5"
+
+#: widgets/post-grid.php:101
+msgid "Layout 4"
+msgstr "Mise en page 4"
+
+#: widgets/post-grid.php:100
+msgid "Layout 3"
+msgstr "Mise en page 3"
+
+#: widgets/post-grid.php:99
+msgid "Layout 2"
+msgstr "Mise en page 2"
+
+#: widgets/post-grid.php:98
+msgid "Layout 1"
+msgstr "Mise en page 1"
+
+#: widgets/post-grid.php:94
+msgid "Grid Style"
+msgstr "Style de grille"
+
+#: widgets/post-grid.php:87 widgets/post-grid.php:385
+msgid "Layout"
+msgstr "Mise en page"
+
+#: widgets/post-grid.php:24
+msgid "Post Grid"
+msgstr "Grille d’articles"
+
+#: post-grid-elementor-addon.php:179
+msgid "PHP"
+msgstr "PHP"
+
+#: post-grid-elementor-addon.php:132 post-grid-elementor-addon.php:155
+msgid "Elementor"
+msgstr "Elementor"
+
+#. Plugin Name of the plugin
+#: post-grid-elementor-addon.php:131 post-grid-elementor-addon.php:154
+#: post-grid-elementor-addon.php:178
+msgid "Post Grid Elementor Addon"
+msgstr "Post Grid Elementor Addon"
+
+#: plugin.php:87
+msgid "WPCap Elements"
+msgstr "WPCap Elements"
+
+#: widgets/post-grid.php:259 widgets/post-grid.php:869
+msgid "Read More"
+msgstr "En savoir plus"
+
+#: widgets/post-grid.php:271
+msgid "Read More Text"
+msgstr "Texte en savoir plus"
+
+#: widgets/post-grid.php:291
+msgid "Center"
+msgstr "Centré"
+
+#: widgets/post-grid.php:468 widgets/post-grid.php:630
+msgid "Border Radius"
+msgstr "Rayon de la bordure"
+
+#: widgets/post-grid.php:489
+msgid "Padding"
+msgstr "Marge interne"
+
+#: widgets/post-grid.php:530 widgets/post-grid.php:583
+msgid "Border Color"
+msgstr "Couleur de la bordure"
+
+#: widgets/post-grid.php:642 widgets/post-grid.php:738
+#: widgets/post-grid.php:794 widgets/post-grid.php:849
+#: widgets/post-grid.php:944
+msgid "Margin"
+msgstr "Marge"
+
+#. translators: 1: Plugin name 2: Elementor
+#: post-grid-elementor-addon.php:130
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "« %1$s » nécessite que « %2$s » soit installé et activé."
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: post-grid-elementor-addon.php:153 post-grid-elementor-addon.php:177
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "« %1$s » nécessite « %2$s » version %3$s ou supérieure."
